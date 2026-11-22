@@ -1,0 +1,16 @@
+{
+  "ugreendiscuz": {
+    "name": "绿联论坛签到",
+    "description": "自动完成绿联社区每日打卡，读取连续签到天数、用户资料和积分变化",
+    "labels": "签到,绿联,论坛,每日打卡",
+    "version": "3.0.1",
+    "icon": "https://raw.githubusercontent.com/madrays/MoviePilot-Plugins/main/icons/lvlian.jpg",
+    "author": "madrays（修改版）",
+    "level": 2,
+    "history": {
+      "v3.0.1": "新增绿联社区每日打卡：动态读取 formhash，提交打卡并复核页面状态；已签到时跳过重复提交；展示连续签到天数；修正游客页面用户资料识别。",
+      "v3.0.0": "迁移为 MoviePilot V3 独立插件版本，保留原版配置和用户资料展示。"
+    },
+    "system_version": ">=3.0.0"
+  }
+}
