@@ -1,0 +1,5 @@
+# This repository is intended to contain source only.
+__pycache__/
+*.pyc
+*.log
+.env
