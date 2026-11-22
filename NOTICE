@@ -1,0 +1,7 @@
+AGPL-3.0-only
+
+This repository contains a modified version of the ugreendiscuz plugin from:
+https://github.com/madrays/MoviePilot-Plugins
+
+Original author: madrays
+Modifications: added Ugreen Community daily check-in flow and verification.
